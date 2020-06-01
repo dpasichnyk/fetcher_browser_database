@@ -1,0 +1,82 @@
+WINDOWS NT 10.0; WOW64
+Windows
+Windows NT
+Windows NT 10.0
+Windows NT 10.0.14393; Win64; x64
+Windows NT 10.0: WOW64
+Windows NT 10.0: Win64: x64
+Windows NT 10.0; WOW64
+Windows NT 10.0; WOW64; x64
+Windows NT 10.0; Win32; x86
+Windows NT 10.0; Win64
+Windows NT 10.0; Win64; x64
+Windows NT 10.0; Win64; x64rv:64.0
+Windows NT 10.0; Win86; x86
+Windows NT 10.1; WOW64
+Windows NT 4.0
+Windows NT 4.10
+Windows NT 5.0
+Windows NT 5.1
+Windows NT 5.1; WOW64
+Windows NT 5.1; Win64; x64
+Windows NT 5.2
+Windows NT 5.2; WOW64
+Windows NT 5.2; WOW64; x64
+Windows NT 6.0
+Windows NT 6.0; WOW64
+Windows NT 6.0; Win64; x64
+Windows NT 6.1
+Windows NT 6.1: WOW64
+Windows NT 6.1: Win64: x64
+Windows NT 6.1; WOW32
+Windows NT 6.1; WOW64
+Windows NT 6.1; WOW64; x64
+Windows NT 6.1; Win64
+Windows NT 6.1; Win64; x64
+Windows NT 6.1; en-US
+Windows NT 6.2
+Windows NT 6.2; WOW64
+Windows NT 6.2; Win64
+Windows NT 6.2; Win64; x64
+Windows NT 6.3
+Windows NT 6.3: Win64: x64
+Windows NT 6.3; WOW64
+Windows NT 6.3; WOW64; x64
+Windows NT 6.3; Win64
+Windows NT 6.3; Win64; x64
+Windows NT 6.3; en-US
+Windows NT 6.4; WOW64
+Windows NT 8.0; WOW64
+Windows; U; Windows NT 10.0
+Windows; U; Windows NT 10.0; Win64; x64; en-US
+Windows; U; Windows NT 10.0; en-US
+Windows; U; Windows NT 5.1
+Windows; U; Windows NT 5.1; de-DE
+Windows; U; Windows NT 5.1; en
+Windows; U; Windows NT 5.1; en-GB
+Windows; U; Windows NT 5.1; en-US
+Windows; U; Windows NT 5.1; es-ES
+Windows; U; Windows NT 5.1; fr-FR
+Windows; U; Windows NT 5.1; it-IT
+Windows; U; Windows NT 5.1; ru-RU
+Windows; U; Windows NT 5.1; zh-TW
+Windows; U; Windows NT 5.2; en-US
+Windows; U; Windows NT 6.0
+Windows; U; Windows NT 6.0; de-DE
+Windows; U; Windows NT 6.0; en-US
+Windows; U; Windows NT 6.0; fr-FR
+Windows; U; Windows NT 6.0; hu-HU
+Windows; U; Windows NT 6.0; ja-JP
+Windows; U; Windows NT 6.1
+Windows; U; Windows NT 6.1; de-DE
+Windows; U; Windows NT 6.1; en-US
+Windows; U; Windows NT 6.1; es-ES
+Windows; U; Windows NT 6.1; fr-FR
+Windows; U; Windows NT 6.1; ja-JP
+Windows; Valve Source Client
+windows nt 10.0; win64; x64
+windows nt 6.0
+windows nt 6.1
+windows nt 6.1; win64; x64
+windows nt 6.1; wow64
+windows nt 6.2

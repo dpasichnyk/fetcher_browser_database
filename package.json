@@ -1,0 +1,59 @@
+{
+  "name": "@schwarm/fetcher_browser_database",
+  "version": "0.0.1",
+  "description": "Collection of valid user agent specific headers",
+  "main": "dist/fetcher_browser_database.js",
+  "module": "src/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:dpasechnik/fetcher_browser_database.git"
+  },
+  "author": "Dmytro Pasichnyk <pasechnik.dev@gmail.com>",
+  "license": "BSD-2-Clause",
+  "private": false,
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack --mode=development -w",
+    "start": "node dist/fetcher_browser_database.js",
+    "test": "NODE_ENV=test jest --detectOpenHandles",
+    "test:coverage": "NODE_ENV=test jest --detectOpenHandles --coverage",
+    "lint": "eslint --ext .js,.jsx ./src ./test",
+    "lic": "license-checker",
+    "prepublish": "yarn run build"
+  },
+  "dependencies": {
+    "country-language": "^0.1.7",
+    "source-map-support": "^0.5.12"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/plugin-transform-modules-amd": "^7.5.0",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.5",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-jest": "^24.8.0",
+    "babel-plugin-transform-export-extensions": "^6.22.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint_d": "^7.3.0",
+    "husky": "^3.0.0",
+    "jest": "^24.9.0",
+    "license-checker": "^25.0.1",
+    "mockdate": "^2.0.2",
+    "nodemon": "^1.19.1",
+    "source-map-loader": "^0.2.4",
+    "supertest": "^4.0.2",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.5"
+  }
+}

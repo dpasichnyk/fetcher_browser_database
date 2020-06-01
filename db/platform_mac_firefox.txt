@@ -1,0 +1,20 @@
+Macintosh; Intel Mac OS X 10.10
+Macintosh; Intel Mac OS X 10.11
+Macintosh; Intel Mac OS X 10.12
+Macintosh; Intel Mac OS X 10.13
+Macintosh; Intel Mac OS X 10.14
+Macintosh; Intel Mac OS X 10.15
+Macintosh; Intel Mac OS X 10.6
+Macintosh; Intel Mac OS X 10.7
+Macintosh; Intel Mac OS X 10.8
+Macintosh; Intel Mac OS X 10.9
+Macintosh; PPC Mac OS X 10.10
+Macintosh; PPC Mac OS X 10.11
+Macintosh; PPC Mac OS X 10.12
+Macintosh; PPC Mac OS X 10.8
+Macintosh; PPC Mac OS X 10.9
+Macintosh; U; Intel Mac OS X 10.10
+Macintosh; U; Intel Mac OS X 10.11
+Macintosh; U; Intel Mac OS X 10.12
+Macintosh; U; Intel Mac OS X 10.13
+Macintosh; U; Intel Mac OS X 10.14
